@@ -8,8 +8,8 @@ max_thrust = 3000.0
 dt = 0.1
 
 # Initial conditions
-altitude = 150.0
-velocity = -12.0
+altitude = 100.0
+velocity = -5.0
 time = 0.0
 
 # Store data for graphs
