@@ -25,7 +25,7 @@ The demo showcases the autonomous spacecraft descent, real-time flight telemetry
 The simulation calculates the spacecraft's vertical acceleration using the relationship between engine thrust, spacecraft mass, and lunar gravity.
 
 \[
-a=\frac{T}{m}-g
+a=(T/m)-g
 \]
 
 Where:
